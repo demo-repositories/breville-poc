@@ -5,11 +5,11 @@
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "frame-ancestors 'self' https://*.sanity.studio"
+          "value": "frame-ancestors 'self' https://breville-poc-r30eaa0s7.sanity.dev"
         },
         {
           "key": "X-Frame-Options",
-          "value": "ALLOW-FROM https://*.sanity.studio"
+          "value": "ALLOW-FROM https://breville-poc-r30eaa0s7.sanity.dev"
         }
       ]
     }
